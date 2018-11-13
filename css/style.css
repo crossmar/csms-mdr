@@ -1,0 +1,28 @@
+.logos {
+    margin-top: 10px;
+}
+
+.logo {
+    height: 80px;
+}
+
+.crossmar-logo {
+    height: 40px;
+}
+
+.hero-body, .hero.is-info .title {
+    color: DarkSlateGray;
+}
+
+.about {
+    padding: 20px;
+    border-radius: 10px;
+    background-color: rgba(255, 255, 255, 0.5);
+}
+
+.emailform {
+    /* bottom: 100px; */
+    padding: 20px;
+    border-radius: 10px;
+    background-color: rgba(255, 255, 255, 0.5);
+}
