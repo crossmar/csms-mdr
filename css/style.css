@@ -10,7 +10,10 @@
     height: 40px;
 }
 
-.hero-body, .hero.is-info .title {
+.hero-body,
+.hero.is-info .title,
+.hero.is-info .subtitle
+{
     color: DarkSlateGray;
 }
 
